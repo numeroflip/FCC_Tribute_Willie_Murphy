@@ -1,0 +1,24 @@
+{
+  "name": "fcc_tribute_willie_murphy",
+  "version": "1.0.0",
+  "description": "This is the first project of Free Code Camp - Responsive Web Design. The tribute page.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/numeroflip/FCC_Tribute_Willie_Murphy.git"
+  },
+  "author": "Áron Berényi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/numeroflip/FCC_Tribute_Willie_Murphy/issues"
+  },
+  "homepage": "https://github.com/numeroflip/FCC_Tribute_Willie_Murphy#readme",
+  "devDependencies": {
+    "del": "^5.1.0",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.0.2"
+  }
+}
